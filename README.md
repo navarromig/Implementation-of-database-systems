@@ -1,1 +1,0 @@
-This repository contains the implementation of the assignments of "Implementation of database systems" class (Υλοποίηση Συστημάτων Βάσεων Δεδομένων). The readme files are in greek. All the code was implemented collectivly
